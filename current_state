@@ -1,0 +1,2 @@
+CNN class currently not in a stable/usable state as it is still a work in progress. General code cleanup, and especially backpropagation
+are the main focus as of right now.
